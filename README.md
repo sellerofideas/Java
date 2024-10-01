@@ -1,2 +1,2 @@
 # Java
- Repositório de projetos em Java - Em manutenção! rsrs
+ Repositório de projetos Java - Em manutenção! rsrs
